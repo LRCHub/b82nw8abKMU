@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "凍るサマー",
+  "base_artist": "Guiano",
+  "createdAt": "2026-03-08T10:46:59.647053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "凍るサマー (feat. EMA)",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/01_凍るサマー_(feat._EMA)_Guiano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "凍るサマー",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_凍るサマー_Guiano.txt"
+    }
+  ]
+}
